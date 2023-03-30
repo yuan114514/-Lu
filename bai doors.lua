@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/slf0Dev/Ocerium_Project/main/Library.lua"))()
-Window = Library.Main("白--doors","bai")
+Window = Library.Main("青--doors","bai")
 local Tab = Window.NewTab("玩家")
 local Section = Tab.NewSection("功能")
 
