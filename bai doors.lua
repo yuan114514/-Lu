@@ -19,6 +19,10 @@ local Button = Section2.NewButton("ESP",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/zoophiliaphobic/POOPDOORS/main/script.lua'))()
 end)
 
+local Button = Section2.NewButton("硬核模式v3",function()
+loadstring(game:HttpGet('https://github.com/HollowedOutMods/MayhemMode/blob/main/loader.lua?raw=true'))()
+end)
+
 local Button = Section2.NewButton("V4云更",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/toosiwhip/toosi_scripts/main/doorsV4.lua"))()
 end)
